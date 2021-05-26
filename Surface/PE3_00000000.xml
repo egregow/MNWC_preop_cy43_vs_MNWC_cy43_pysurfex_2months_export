@@ -1,0 +1,4700 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>3h Precipitation</VAR>
+<UNIT>mm/3h</UNIT>
+<PERIOD>20210330-20210525</PERIOD>
+ <STATION>
+ <MEAN_OBS>  0.296848923     </MEAN_OBS>
+ <STDV_OBS>  0.965311706     </STDV_OBS>
+ <EXP>
+ <ID>       10046 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         476 </NUM>
+ <MEAN>  0.331782818     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.591675818     </BIAS>
+ <RMSE>  0.802201211     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10046 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         476 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.596052766     </BIAS>
+ <RMSE>  0.810084403     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10046 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         476 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.610630572     </BIAS>
+ <RMSE>  0.789698958     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.74747038E-02 </MEAN_OBS>
+ <STDV_OBS>  0.742324173     </STDV_OBS>
+ <EXP>
+ <ID>       10091 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>  0.188127115     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.513987780     </BIAS>
+ <RMSE>  0.554400861     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10091 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.684487343     </BIAS>
+ <RMSE>  0.470933884     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10091 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.642951250     </BIAS>
+ <RMSE>  0.503841519     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.185626373     </MEAN_OBS>
+ <STDV_OBS>  0.725328505     </STDV_OBS>
+ <EXP>
+ <ID>       10113 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         487 </NUM>
+ <MEAN>  0.241192386     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.602890611     </BIAS>
+ <RMSE>  0.555314898     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10113 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         487 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.706450224     </BIAS>
+ <RMSE>  0.544872105     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10113 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         487 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.580477059     </BIAS>
+ <RMSE>  0.628708780     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.171794847     </MEAN_OBS>
+ <STDV_OBS>  0.845325708     </STDV_OBS>
+ <EXP>
+ <ID>       10131 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         468 </NUM>
+ <MEAN>  0.235711783     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.574136376     </BIAS>
+ <RMSE>  0.737317920     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10131 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         468 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.635656893     </BIAS>
+ <RMSE>  0.670965672     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10131 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         468 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.616143584     </BIAS>
+ <RMSE>  0.691402614     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.143157810     </MEAN_OBS>
+ <STDV_OBS>  0.708826542     </STDV_OBS>
+ <EXP>
+ <ID>       10170 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         475 </NUM>
+ <MEAN>  0.187161371     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.723103166     </BIAS>
+ <RMSE>  0.459416479     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10170 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         475 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.677266538     </BIAS>
+ <RMSE>  0.515534401     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10170 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         475 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.605941832     </BIAS>
+ <RMSE>  0.557184160     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.112499967     </MEAN_OBS>
+ <STDV_OBS>  0.515912771     </STDV_OBS>
+ <EXP>
+ <ID>       10253 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         464 </NUM>
+ <MEAN>  0.142659500     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.628577590     </BIAS>
+ <RMSE>  0.227073923     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10253 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         464 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.744887412     </BIAS>
+ <RMSE>  0.190614671     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10253 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         464 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.557833076     </BIAS>
+ <RMSE>  0.254547864     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.140322521     </MEAN_OBS>
+ <STDV_OBS>  0.766551852     </STDV_OBS>
+ <EXP>
+ <ID>       10264 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         496 </NUM>
+ <MEAN>  0.211230919     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.817881644     </BIAS>
+ <RMSE>  0.320937842     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10264 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         496 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.673395336     </BIAS>
+ <RMSE>  0.382936925     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10264 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         496 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.738218963     </BIAS>
+ <RMSE>  0.356273443     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.151745364     </MEAN_OBS>
+ <STDV_OBS>  0.555397570     </STDV_OBS>
+ <EXP>
+ <ID>       10268 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         487 </NUM>
+ <MEAN>  0.150766298     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.624272823     </BIAS>
+ <RMSE>  0.404529780     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10268 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         487 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.603993714     </BIAS>
+ <RMSE>  0.452318013     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10268 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         487 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.568328679     </BIAS>
+ <RMSE>  0.440585196     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.170286909     </MEAN_OBS>
+ <STDV_OBS>  0.507384002     </STDV_OBS>
+ <EXP>
+ <ID>       10291 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         488 </NUM>
+ <MEAN>  0.130412489     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.654235303     </BIAS>
+ <RMSE>  0.262881428     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10291 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         488 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.624656558     </BIAS>
+ <RMSE>  0.322235405     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10291 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         488 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.646631002     </BIAS>
+ <RMSE>  0.255751461     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.218049765     </MEAN_OBS>
+ <STDV_OBS>  0.450488567     </STDV_OBS>
+ <EXP>
+ <ID>       10315 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         482 </NUM>
+ <MEAN>  0.139444262     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.491768479     </BIAS>
+ <RMSE>  0.567192495     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10315 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         482 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.499666125     </BIAS>
+ <RMSE>  0.566972911     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10315 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         482 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.462877184     </BIAS>
+ <RMSE>  0.613793552     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.188300207     </MEAN_OBS>
+ <STDV_OBS>  0.635254920     </STDV_OBS>
+ <EXP>
+ <ID>       10379 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>  0.128112361     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.490934849     </BIAS>
+ <RMSE>  0.751079559     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10379 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.460537523     </BIAS>
+ <RMSE>  0.781737804     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10379 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.462166160     </BIAS>
+ <RMSE>  0.781680226     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.133673444     </MEAN_OBS>
+ <STDV_OBS>  0.304202646     </STDV_OBS>
+ <EXP>
+ <ID>       10382 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         294 </NUM>
+ <MEAN>   8.56910422E-02 </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.434223473     </BIAS>
+ <RMSE>  0.399868220     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10382 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         294 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.487038285     </BIAS>
+ <RMSE>  0.302838504     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10382 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         294 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.468287528     </BIAS>
+ <RMSE>  0.336834371     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.130851045     </MEAN_OBS>
+ <STDV_OBS>  0.623746753     </STDV_OBS>
+ <EXP>
+ <ID>       10384 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         470 </NUM>
+ <MEAN>  0.130921900     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.584080219     </BIAS>
+ <RMSE>  0.546716273     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10384 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         470 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.642963171     </BIAS>
+ <RMSE>  0.529045105     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10384 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         470 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.512459099     </BIAS>
+ <RMSE>  0.587363720     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.288546085     </MEAN_OBS>
+ <STDV_OBS>  0.693949878     </STDV_OBS>
+ <EXP>
+ <ID>       10410 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         454 </NUM>
+ <MEAN>  0.228514731     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.785428405     </BIAS>
+ <RMSE>  0.411006868     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10410 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         454 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.732803524     </BIAS>
+ <RMSE>  0.462318331     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10410 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         454 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.727721989     </BIAS>
+ <RMSE>  0.455271989     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.341489494     </MEAN_OBS>
+ <STDV_OBS>  0.679901719     </STDV_OBS>
+ <EXP>
+ <ID>       10430 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         470 </NUM>
+ <MEAN>  0.216429085     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.811890721     </BIAS>
+ <RMSE>  0.546794116     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10430 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         470 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.919664621     </BIAS>
+ <RMSE>  0.473430961     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10430 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         470 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.782959044     </BIAS>
+ <RMSE>  0.567533016     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.278723359     </MEAN_OBS>
+ <STDV_OBS>  0.602165699     </STDV_OBS>
+ <EXP>
+ <ID>       10453 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>          47 </NUM>
+ <MEAN>  0.243972108     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.357229292     </BIAS>
+ <RMSE>  0.796765327     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10453 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>          47 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.369849324     </BIAS>
+ <RMSE>  0.773062706     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10453 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>          47 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.388769984     </BIAS>
+ <RMSE>  0.765859783     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.130263194     </MEAN_OBS>
+ <STDV_OBS>  0.565144956     </STDV_OBS>
+ <EXP>
+ <ID>       10496 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.109882206     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.393781245     </BIAS>
+ <RMSE>  0.833574831     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10496 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.373295158     </BIAS>
+ <RMSE>  0.832322538     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10496 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.362862200     </BIAS>
+ <RMSE>  0.822760582     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.153004304     </MEAN_OBS>
+ <STDV_OBS>  0.646531761     </STDV_OBS>
+ <EXP>
+ <ID>       10015 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         466 </NUM>
+ <MEAN>  0.209507376     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.423751086     </BIAS>
+ <RMSE>  0.763335288     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10015 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         466 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.525369585     </BIAS>
+ <RMSE>  0.650292337     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10015 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         466 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.478725106     </BIAS>
+ <RMSE>  0.708955765     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.155274242     </MEAN_OBS>
+ <STDV_OBS>  0.856245041     </STDV_OBS>
+ <EXP>
+ <ID>       10020 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         474 </NUM>
+ <MEAN>  0.224183947     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.462181956     </BIAS>
+ <RMSE>  0.772096097     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10020 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         474 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.466953874     </BIAS>
+ <RMSE>  0.796086013     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10020 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         474 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.615666211     </BIAS>
+ <RMSE>  0.714952767     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.354446977     </MEAN_OBS>
+ <STDV_OBS>   1.03201699     </STDV_OBS>
+ <EXP>
+ <ID>       10035 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         461 </NUM>
+ <MEAN>  0.324398726     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.712047577     </BIAS>
+ <RMSE>  0.693985283     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10035 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         461 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.789444327     </BIAS>
+ <RMSE>  0.662619650     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10035 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         461 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.894192517     </BIAS>
+ <RMSE>  0.589603186     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.181541473     </MEAN_OBS>
+ <STDV_OBS>  0.746267200     </STDV_OBS>
+ <EXP>
+ <ID>       10055 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         493 </NUM>
+ <MEAN>  0.244626686     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.796967983     </BIAS>
+ <RMSE>  0.510861278     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10055 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         493 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.754728734     </BIAS>
+ <RMSE>  0.517173171     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10055 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         493 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.619426250     </BIAS>
+ <RMSE>  0.617688000     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.235581383     </MEAN_OBS>
+ <STDV_OBS>  0.952251494     </STDV_OBS>
+ <EXP>
+ <ID>       10147 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         430 </NUM>
+ <MEAN>  0.220097646     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>   1.09207809     </BIAS>
+ <RMSE>  0.441612750     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10147 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         430 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.740932107     </BIAS>
+ <RMSE>  0.573653400     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10147 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         430 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.858376026     </BIAS>
+ <RMSE>  0.508653283     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.181152999     </MEAN_OBS>
+ <STDV_OBS>  0.874511898     </STDV_OBS>
+ <EXP>
+ <ID>       10162 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         451 </NUM>
+ <MEAN>  0.240004867     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.511430740     </BIAS>
+ <RMSE>  0.639424562     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10162 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         451 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.838702917     </BIAS>
+ <RMSE>  0.443579078     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10162 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         451 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.799404860     </BIAS>
+ <RMSE>  0.462975115     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.174579829     </MEAN_OBS>
+ <STDV_OBS>  0.797845006     </STDV_OBS>
+ <EXP>
+ <ID>       10184 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         476 </NUM>
+ <MEAN>  0.212058693     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.729586005     </BIAS>
+ <RMSE>  0.373729318     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10184 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         476 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.759700894     </BIAS>
+ <RMSE>  0.315917671     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10184 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         476 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.833360016     </BIAS>
+ <RMSE>  0.337789983     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.240871295     </MEAN_OBS>
+ <STDV_OBS>  0.865693212     </STDV_OBS>
+ <EXP>
+ <ID>       10200 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         482 </NUM>
+ <MEAN>  0.271127015     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.755406976     </BIAS>
+ <RMSE>  0.496370941     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10200 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         482 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.656592011     </BIAS>
+ <RMSE>  0.606532931     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10200 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         482 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.741906941     </BIAS>
+ <RMSE>  0.554650247     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.189539731     </MEAN_OBS>
+ <STDV_OBS>  0.814110279     </STDV_OBS>
+ <EXP>
+ <ID>       10224 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         478 </NUM>
+ <MEAN>  0.212109774     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.424557596     </BIAS>
+ <RMSE>  0.782125235     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10224 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         478 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.455201596     </BIAS>
+ <RMSE>  0.813165247     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10224 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         478 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.514236867     </BIAS>
+ <RMSE>  0.774941087     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.208478153     </MEAN_OBS>
+ <STDV_OBS>  0.970107377     </STDV_OBS>
+ <EXP>
+ <ID>       10338 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         460 </NUM>
+ <MEAN>  0.287728131     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.656987965     </BIAS>
+ <RMSE>  0.709173083     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10338 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         460 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.632087946     </BIAS>
+ <RMSE>  0.700668454     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10338 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         460 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.762643397     </BIAS>
+ <RMSE>  0.623031318     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.166252583     </MEAN_OBS>
+ <STDV_OBS>  0.463420659     </STDV_OBS>
+ <EXP>
+ <ID>       10361 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         483 </NUM>
+ <MEAN>  0.147970065     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.337386549     </BIAS>
+ <RMSE>  0.775893867     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10361 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         483 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.372802317     </BIAS>
+ <RMSE>  0.724819839     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10361 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         483 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.387721449     </BIAS>
+ <RMSE>  0.706829250     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.127520934     </MEAN_OBS>
+ <STDV_OBS>  0.529621005     </STDV_OBS>
+ <EXP>
+ <ID>       10393 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         476 </NUM>
+ <MEAN>  0.150990739     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.382966340     </BIAS>
+ <RMSE>  0.627679288     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10393 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         476 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.535931289     </BIAS>
+ <RMSE>  0.553408563     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10393 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         476 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.389668792     </BIAS>
+ <RMSE>  0.692056537     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.321386009     </MEAN_OBS>
+ <STDV_OBS>  0.566125333     </STDV_OBS>
+ <EXP>
+ <ID>       10400 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         505 </NUM>
+ <MEAN>  0.156212330     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.763558447     </BIAS>
+ <RMSE>  0.427480340     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10400 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         505 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.754225492     </BIAS>
+ <RMSE>  0.420738369     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10400 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         505 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.771592021     </BIAS>
+ <RMSE>  0.401262492     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.241290271     </MEAN_OBS>
+ <STDV_OBS>  0.552114189     </STDV_OBS>
+ <EXP>
+ <ID>       10022 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         465 </NUM>
+ <MEAN>  0.208352134     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.398882419     </BIAS>
+ <RMSE>  0.731613815     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10022 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         465 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.413622797     </BIAS>
+ <RMSE>  0.736167550     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10022 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         465 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.417954266     </BIAS>
+ <RMSE>  0.706541240     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.300420970     </MEAN_OBS>
+ <STDV_OBS>  0.906741500     </STDV_OBS>
+ <EXP>
+ <ID>       10042 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         475 </NUM>
+ <MEAN>  0.270819902     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.560198367     </BIAS>
+ <RMSE>  0.768624306     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10042 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         475 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.654230297     </BIAS>
+ <RMSE>  0.687357783     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10042 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         475 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.727102399     </BIAS>
+ <RMSE>  0.650083125     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.101606436     </MEAN_OBS>
+ <STDV_OBS>  0.803978801     </STDV_OBS>
+ <EXP>
+ <ID>       10093 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>  0.210450217     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.703484893     </BIAS>
+ <RMSE>  0.376119345     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10093 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.909998894     </BIAS>
+ <RMSE>  0.280135840     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10093 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.775997639     </BIAS>
+ <RMSE>  0.308464676     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.117187515     </MEAN_OBS>
+ <STDV_OBS>  0.677908957     </STDV_OBS>
+ <EXP>
+ <ID>       10097 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         448 </NUM>
+ <MEAN>  0.162460074     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.736999273     </BIAS>
+ <RMSE>  0.531418562     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10097 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         448 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.611582398     </BIAS>
+ <RMSE>  0.479014546     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10097 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         448 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.620224953     </BIAS>
+ <RMSE>  0.470252275     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.188188985     </MEAN_OBS>
+ <STDV_OBS>  0.849544227     </STDV_OBS>
+ <EXP>
+ <ID>       10129 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         508 </NUM>
+ <MEAN>  0.267189503     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.758861303     </BIAS>
+ <RMSE>  0.405848056     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10129 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         508 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.736550808     </BIAS>
+ <RMSE>  0.462594450     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10129 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         508 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.756781816     </BIAS>
+ <RMSE>  0.470313996     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.238055512     </MEAN_OBS>
+ <STDV_OBS>  0.865752757     </STDV_OBS>
+ <EXP>
+ <ID>       10130 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         360 </NUM>
+ <MEAN>  0.264804572     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.483869940     </BIAS>
+ <RMSE>  0.742114305     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10130 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         360 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.430832803     </BIAS>
+ <RMSE>  0.814802825     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10130 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         360 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.578721642     </BIAS>
+ <RMSE>  0.743337512     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.228073806     </MEAN_OBS>
+ <STDV_OBS>  0.787674606     </STDV_OBS>
+ <EXP>
+ <ID>       10139 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         488 </NUM>
+ <MEAN>  0.233733833     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.572572410     </BIAS>
+ <RMSE>  0.648463845     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10139 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         488 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.827864170     </BIAS>
+ <RMSE>  0.505329430     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10139 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         488 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.665669978     </BIAS>
+ <RMSE>  0.560437977     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.311856806     </MEAN_OBS>
+ <STDV_OBS>   1.18436587     </STDV_OBS>
+ <EXP>
+ <ID>       10142 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         447 </NUM>
+ <MEAN>  0.352805436     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.513141632     </BIAS>
+ <RMSE>  0.903808296     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10142 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         447 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.638774991     </BIAS>
+ <RMSE>  0.855298042     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10142 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         447 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.593657553     </BIAS>
+ <RMSE>  0.865020692     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.239578277     </MEAN_OBS>
+ <STDV_OBS>  0.962429225     </STDV_OBS>
+ <EXP>
+ <ID>       10146 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         427 </NUM>
+ <MEAN>  0.253377765     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.778200507     </BIAS>
+ <RMSE>  0.687096953     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10146 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         427 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.742105424     </BIAS>
+ <RMSE>  0.694406092     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10146 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         427 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.665916502     </BIAS>
+ <RMSE>  0.723882139     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.280043364     </MEAN_OBS>
+ <STDV_OBS>   1.00900924     </STDV_OBS>
+ <EXP>
+ <ID>       10150 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         461 </NUM>
+ <MEAN>  0.314435214     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.728679597     </BIAS>
+ <RMSE>  0.738638580     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10150 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         461 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.672631323     </BIAS>
+ <RMSE>  0.751937151     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10150 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         461 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.639887333     </BIAS>
+ <RMSE>  0.773169816     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.269032180     </MEAN_OBS>
+ <STDV_OBS>   1.20593297     </STDV_OBS>
+ <EXP>
+ <ID>       10152 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         465 </NUM>
+ <MEAN>  0.344563574     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.829278588     </BIAS>
+ <RMSE>  0.701457322     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10152 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         465 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.944876373     </BIAS>
+ <RMSE>  0.678485215     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10152 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         465 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.873035192     </BIAS>
+ <RMSE>  0.689295650     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.195104852     </MEAN_OBS>
+ <STDV_OBS>   1.20676935     </STDV_OBS>
+ <EXP>
+ <ID>       10156 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         429 </NUM>
+ <MEAN>  0.254349351     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.615631998     </BIAS>
+ <RMSE>  0.835395396     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10156 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         429 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.716960311     </BIAS>
+ <RMSE>  0.873776734     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10156 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         429 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.682551742     </BIAS>
+ <RMSE>  0.865571022     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.193260834     </MEAN_OBS>
+ <STDV_OBS>   1.03966701     </STDV_OBS>
+ <EXP>
+ <ID>       10161 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         460 </NUM>
+ <MEAN>  0.262684971     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.603945374     </BIAS>
+ <RMSE>  0.654135346     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10161 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         460 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.675040185     </BIAS>
+ <RMSE>  0.644252121     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10161 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         460 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.853717923     </BIAS>
+ <RMSE>  0.570308447     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.107158355     </MEAN_OBS>
+ <STDV_OBS>  0.695355594     </STDV_OBS>
+ <EXP>
+ <ID>       10168 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         461 </NUM>
+ <MEAN>  0.171584323     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.713287175     </BIAS>
+ <RMSE>  0.260097235     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10168 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         461 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.679524481     </BIAS>
+ <RMSE>  0.201732069     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10168 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         461 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.742590487     </BIAS>
+ <RMSE>  0.166778609     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.133197516     </MEAN_OBS>
+ <STDV_OBS>  0.799731791     </STDV_OBS>
+ <EXP>
+ <ID>       10180 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         491 </NUM>
+ <MEAN>  0.175211638     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.528726518     </BIAS>
+ <RMSE>  0.342700690     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10180 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         491 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.694262087     </BIAS>
+ <RMSE>  0.352575183     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10180 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         491 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.789584696     </BIAS>
+ <RMSE>  0.299296260     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.140178561     </MEAN_OBS>
+ <STDV_OBS>  0.516251326     </STDV_OBS>
+ <EXP>
+ <ID>       10193 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         448 </NUM>
+ <MEAN>  0.149991587     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.543050528     </BIAS>
+ <RMSE>  0.472977728     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10193 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         448 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.535510123     </BIAS>
+ <RMSE>  0.482832700     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10193 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         448 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.536976755     </BIAS>
+ <RMSE>  0.480769694     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.136363640     </MEAN_OBS>
+ <STDV_OBS>  0.655877531     </STDV_OBS>
+ <EXP>
+ <ID>       10210 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         220 </NUM>
+ <MEAN>  0.158280894     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.272328913     </BIAS>
+ <RMSE>  0.923232615     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10210 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         220 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.287302822     </BIAS>
+ <RMSE>  0.909572721     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10210 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         220 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.245568350     </BIAS>
+ <RMSE>  0.926939547     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.193478212     </MEAN_OBS>
+ <STDV_OBS>   1.51985264     </STDV_OBS>
+ <EXP>
+ <ID>       10249 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         460 </NUM>
+ <MEAN>  0.211218208     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.623215497     </BIAS>
+ <RMSE>  0.697348893     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10249 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         460 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.17374897     </BIAS>
+ <RMSE>  0.701063395     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10249 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         460 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>   1.10441518     </BIAS>
+ <RMSE>  0.721035540     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.205263168     </MEAN_OBS>
+ <STDV_OBS>  0.803324521     </STDV_OBS>
+ <EXP>
+ <ID>       10261 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         475 </NUM>
+ <MEAN>  0.189491615     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.524739504     </BIAS>
+ <RMSE>  0.745201290     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10261 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         475 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.720497429     </BIAS>
+ <RMSE>  0.547910869     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10261 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         475 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.646475613     </BIAS>
+ <RMSE>  0.661064982     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.177730173     </MEAN_OBS>
+ <STDV_OBS>  0.564969122     </STDV_OBS>
+ <EXP>
+ <ID>       10267 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         467 </NUM>
+ <MEAN>  0.140849471     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.558939815     </BIAS>
+ <RMSE>  0.488237411     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10267 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         467 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.790057540     </BIAS>
+ <RMSE>  0.309228867     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10267 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         467 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.656719446     </BIAS>
+ <RMSE>  0.386702508     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.175619721     </MEAN_OBS>
+ <STDV_OBS>  0.469861865     </STDV_OBS>
+ <EXP>
+ <ID>       10281 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         484 </NUM>
+ <MEAN>  0.137310088     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.664011955     </BIAS>
+ <RMSE>  0.443916053     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10281 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         484 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.572131932     </BIAS>
+ <RMSE>  0.570138097     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10281 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         484 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.606211543     </BIAS>
+ <RMSE>  0.497996360     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.166249916     </MEAN_OBS>
+ <STDV_OBS>  0.682732105     </STDV_OBS>
+ <EXP>
+ <ID>       10282 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>  0.183352768     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.503279507     </BIAS>
+ <RMSE>  0.491106540     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10282 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.653703809     </BIAS>
+ <RMSE>  0.426969498     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10282 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.655238450     </BIAS>
+ <RMSE>  0.431281626     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.126394838     </MEAN_OBS>
+ <STDV_OBS>  0.515544951     </STDV_OBS>
+ <EXP>
+ <ID>       10289 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         466 </NUM>
+ <MEAN>  0.110288419     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.395432353     </BIAS>
+ <RMSE>  0.536325634     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10289 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         466 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.409492791     </BIAS>
+ <RMSE>  0.510358453     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10289 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         466 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.525911987     </BIAS>
+ <RMSE>  0.403379709     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.238362044     </MEAN_OBS>
+ <STDV_OBS>  0.611494482     </STDV_OBS>
+ <EXP>
+ <ID>       10309 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         464 </NUM>
+ <MEAN>  0.201977283     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.674407482     </BIAS>
+ <RMSE>  0.538284481     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10309 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         464 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.627868593     </BIAS>
+ <RMSE>  0.513081491     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10309 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         464 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.608208477     </BIAS>
+ <RMSE>  0.561786532     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.270019740     </MEAN_OBS>
+ <STDV_OBS>  0.753922820     </STDV_OBS>
+ <EXP>
+ <ID>       10321 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         507 </NUM>
+ <MEAN>  0.235288545     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.792158723     </BIAS>
+ <RMSE>  0.665137887     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10321 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         507 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.683221102     </BIAS>
+ <RMSE>  0.661240757     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10321 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         507 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.705754280     </BIAS>
+ <RMSE>  0.610603273     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.302444041     </MEAN_OBS>
+ <STDV_OBS>  0.642628670     </STDV_OBS>
+ <EXP>
+ <ID>       10325 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         491 </NUM>
+ <MEAN>  0.201488465     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.823894560     </BIAS>
+ <RMSE>  0.381012082     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10325 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         491 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.752936840     </BIAS>
+ <RMSE>  0.451127589     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10325 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         491 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.748733163     </BIAS>
+ <RMSE>  0.458810002     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.162162095     </MEAN_OBS>
+ <STDV_OBS>  0.539725602     </STDV_OBS>
+ <EXP>
+ <ID>       10348 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         481 </NUM>
+ <MEAN>  0.182003826     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.563004792     </BIAS>
+ <RMSE>  0.512980521     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10348 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         481 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.656836450     </BIAS>
+ <RMSE>  0.457002699     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10348 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         481 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.571337342     </BIAS>
+ <RMSE>  0.506066859     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.177542284     </MEAN_OBS>
+ <STDV_OBS>  0.478303105     </STDV_OBS>
+ <EXP>
+ <ID>       10356 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         472 </NUM>
+ <MEAN>  0.145677075     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.511609435     </BIAS>
+ <RMSE>  0.581680119     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10356 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         472 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.466904342     </BIAS>
+ <RMSE>  0.612432361     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10356 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         472 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.497472823     </BIAS>
+ <RMSE>  0.573905587     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.190678015     </MEAN_OBS>
+ <STDV_OBS>  0.551575541     </STDV_OBS>
+ <EXP>
+ <ID>       10359 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         472 </NUM>
+ <MEAN>  0.183738485     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.501929760     </BIAS>
+ <RMSE>  0.598714828     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10359 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         472 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.479694694     </BIAS>
+ <RMSE>  0.652468026     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10359 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         472 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.501355112     </BIAS>
+ <RMSE>  0.624375522     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.211764678     </MEAN_OBS>
+ <STDV_OBS>  0.836392701     </STDV_OBS>
+ <EXP>
+ <ID>       10365 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         476 </NUM>
+ <MEAN>  0.227264717     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.739251435     </BIAS>
+ <RMSE>  0.518684864     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10365 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         476 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.823555887     </BIAS>
+ <RMSE>  0.479546607     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10365 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         476 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.765047848     </BIAS>
+ <RMSE>  0.539557457     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.237394899     </MEAN_OBS>
+ <STDV_OBS>  0.719012678     </STDV_OBS>
+ <EXP>
+ <ID>       10368 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         476 </NUM>
+ <MEAN>  0.212624222     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.658669770     </BIAS>
+ <RMSE>  0.546917617     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10368 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         476 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.863572180     </BIAS>
+ <RMSE>  0.404852748     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10368 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         476 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.713599443     </BIAS>
+ <RMSE>  0.513617218     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.173841938     </MEAN_OBS>
+ <STDV_OBS>  0.568641603     </STDV_OBS>
+ <EXP>
+ <ID>       10376 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         367 </NUM>
+ <MEAN>  0.139437348     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.478431791     </BIAS>
+ <RMSE>  0.726527870     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10376 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         367 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.373484164     </BIAS>
+ <RMSE>  0.832289934     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10376 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         367 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.360250890     </BIAS>
+ <RMSE>  0.837219000     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.122526295     </MEAN_OBS>
+ <STDV_OBS>  0.469880790     </STDV_OBS>
+ <EXP>
+ <ID>       10385 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         475 </NUM>
+ <MEAN>  0.104004100     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.572152555     </BIAS>
+ <RMSE>  0.345173389     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10385 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         475 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.453227013     </BIAS>
+ <RMSE>  0.573248684     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10385 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         475 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.372141004     </BIAS>
+ <RMSE>  0.727454424     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.156982020     </MEAN_OBS>
+ <STDV_OBS>  0.423668623     </STDV_OBS>
+ <EXP>
+ <ID>       10396 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         444 </NUM>
+ <MEAN>   9.89885256E-02 </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.483950883     </BIAS>
+ <RMSE>  0.412432045     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10396 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         444 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.455228418     </BIAS>
+ <RMSE>  0.497725248     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10396 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         444 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.452989966     </BIAS>
+ <RMSE>  0.528313637     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.199366987     </MEAN_OBS>
+ <STDV_OBS>  0.580754995     </STDV_OBS>
+ <EXP>
+ <ID>       10424 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         474 </NUM>
+ <MEAN>  0.154696092     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.618776441     </BIAS>
+ <RMSE>  0.409632266     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10424 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         474 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.688293934     </BIAS>
+ <RMSE>  0.375912696     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10424 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         474 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.681302190     </BIAS>
+ <RMSE>  0.359622240     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.348290801     </MEAN_OBS>
+ <STDV_OBS>  0.567533016     </STDV_OBS>
+ <EXP>
+ <ID>       10433 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         468 </NUM>
+ <MEAN>  0.180692226     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.693047941     </BIAS>
+ <RMSE>  0.612623215     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10433 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         468 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.686393917     </BIAS>
+ <RMSE>  0.626571774     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10433 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         468 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.610132813     </BIAS>
+ <RMSE>  0.716086268     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.202173650     </MEAN_OBS>
+ <STDV_OBS>  0.654452682     </STDV_OBS>
+ <EXP>
+ <ID>       10435 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         460 </NUM>
+ <MEAN>  0.165445104     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.552031279     </BIAS>
+ <RMSE>  0.248757705     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10435 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         460 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.632057667     </BIAS>
+ <RMSE>  0.303310394     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10435 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         460 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.728057623     </BIAS>
+ <RMSE>  0.218599856     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.268855810     </MEAN_OBS>
+ <STDV_OBS>  0.491829932     </STDV_OBS>
+ <EXP>
+ <ID>       10442 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         472 </NUM>
+ <MEAN>  0.154966131     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.534233391     </BIAS>
+ <RMSE>  0.739327490     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10442 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         472 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.531960189     </BIAS>
+ <RMSE>  0.763464332     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10442 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         472 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.543154240     </BIAS>
+ <RMSE>  0.730272949     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.184418544     </MEAN_OBS>
+ <STDV_OBS>  0.448663861     </STDV_OBS>
+ <EXP>
+ <ID>       10444 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         430 </NUM>
+ <MEAN>  0.107116744     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.560457647     </BIAS>
+ <RMSE>  0.201639652     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10444 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         430 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.573068678     </BIAS>
+ <RMSE>  0.269337714     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10444 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         430 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.598703206     </BIAS>
+ <RMSE>  0.232725933     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.381601602     </MEAN_OBS>
+ <STDV_OBS>  0.785021663     </STDV_OBS>
+ <EXP>
+ <ID>       10452 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         462 </NUM>
+ <MEAN>  0.260448515     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.700731277     </BIAS>
+ <RMSE>  0.639070570     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10452 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         462 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.747480929     </BIAS>
+ <RMSE>  0.578820884     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10452 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         462 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.859183848     </BIAS>
+ <RMSE>  0.494458735     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.203232706     </MEAN_OBS>
+ <STDV_OBS>  0.512559056     </STDV_OBS>
+ <EXP>
+ <ID>       10454 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         464 </NUM>
+ <MEAN>  0.154504031     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.539075196     </BIAS>
+ <RMSE>  0.517229855     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10454 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         464 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.873217523     </BIAS>
+ <RMSE>  0.288536519     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10454 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         464 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.590150237     </BIAS>
+ <RMSE>  0.451641321     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.211790308     </MEAN_OBS>
+ <STDV_OBS>  0.646348894     </STDV_OBS>
+ <EXP>
+ <ID>       10458 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         458 </NUM>
+ <MEAN>  0.157049984     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.688377857     </BIAS>
+ <RMSE>  0.230960086     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10458 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         458 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.961897731     </BIAS>
+ <RMSE>  0.152256802     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10458 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         458 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.813110769     </BIAS>
+ <RMSE>  0.167173490     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.224203750     </MEAN_OBS>
+ <STDV_OBS>  0.772783399     </STDV_OBS>
+ <EXP>
+ <ID>       10474 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         471 </NUM>
+ <MEAN>  0.170402840     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.647049189     </BIAS>
+ <RMSE>  0.445311129     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10474 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         471 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.783824682     </BIAS>
+ <RMSE>  0.355565965     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10474 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         471 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.833520472     </BIAS>
+ <RMSE>  0.326558203     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.176190466     </MEAN_OBS>
+ <STDV_OBS>  0.446269482     </STDV_OBS>
+ <EXP>
+ <ID>       10490 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         462 </NUM>
+ <MEAN>  0.113527648     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.731092930     </BIAS>
+ <RMSE>  0.450241417     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10490 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         462 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.605989218     </BIAS>
+ <RMSE>  0.490280390     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10490 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         462 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.578195930     </BIAS>
+ <RMSE>  0.479112625     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.234200746     </MEAN_OBS>
+ <STDV_OBS>  0.419120312     </STDV_OBS>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         269 </NUM>
+ <MEAN>  0.114084214     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.613896251     </BIAS>
+ <RMSE>  0.611384392     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         269 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.594798267     </BIAS>
+ <RMSE>  0.642404139     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         269 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.575691283     </BIAS>
+ <RMSE>  0.684039772     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.175883561     </MEAN_OBS>
+ <STDV_OBS>  0.704049647     </STDV_OBS>
+ <EXP>
+ <ID>       10381 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         481 </NUM>
+ <MEAN>  0.156216621     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.677826166     </BIAS>
+ <RMSE>  0.580951214     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10381 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         481 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.861292481     </BIAS>
+ <RMSE>  0.513813853     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10381 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         481 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.549125433     </BIAS>
+ <RMSE>  0.660093248     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.215624958     </MEAN_OBS>
+ <STDV_OBS>  0.651402235     </STDV_OBS>
+ <EXP>
+ <ID>       10028 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         448 </NUM>
+ <MEAN>  0.209717959     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.514421344     </BIAS>
+ <RMSE>  0.741168201     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10028 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         448 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.506582081     </BIAS>
+ <RMSE>  0.745314837     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10028 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         448 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.533953488     </BIAS>
+ <RMSE>  0.716329515     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.140120968     </MEAN_OBS>
+ <STDV_OBS>  0.430321932     </STDV_OBS>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         496 </NUM>
+ <MEAN>  0.146706611     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.642407477     </BIAS>
+ <RMSE>  0.440718144     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         496 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.549511731     </BIAS>
+ <RMSE>  0.489730746     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         496 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.367815524     </BIAS>
+ <RMSE>  0.604985476     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.256626576     </MEAN_OBS>
+ <STDV_OBS>  0.815714777     </STDV_OBS>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>  0.199303627     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.653467000     </BIAS>
+ <RMSE>  0.672972143     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.741963327     </BIAS>
+ <RMSE>  0.636288822     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.647338152     </BIAS>
+ <RMSE>  0.688854933     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.230495036     </MEAN_OBS>
+ <STDV_OBS>  0.618536353     </STDV_OBS>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         505 </NUM>
+ <MEAN>  0.136406526     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.613626540     </BIAS>
+ <RMSE>  0.674908638     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         505 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.528503895     </BIAS>
+ <RMSE>  0.775117457     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         505 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.576591194     </BIAS>
+ <RMSE>  0.713289201     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.175564691     </MEAN_OBS>
+ <STDV_OBS>  0.661696851     </STDV_OBS>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         487 </NUM>
+ <MEAN>  0.174504638     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.582060814     </BIAS>
+ <RMSE>  0.583659887     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         487 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.583946824     </BIAS>
+ <RMSE>  0.604589880     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         487 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.593574047     </BIAS>
+ <RMSE>  0.613900840     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.330864221     </MEAN_OBS>
+ <STDV_OBS>  0.546460032     </STDV_OBS>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>          81 </NUM>
+ <MEAN>  0.373277038     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.626334071     </BIAS>
+ <RMSE>  0.288003266     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>          81 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.531181872     </BIAS>
+ <RMSE>  0.443926066     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>          81 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.515905797     </BIAS>
+ <RMSE>  0.527647793     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.199999928     </MEAN_OBS>
+ <STDV_OBS>  0.687470019     </STDV_OBS>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         503 </NUM>
+ <MEAN>  0.222360149     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.359370679     </BIAS>
+ <RMSE>  0.824056387     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         503 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.412169814     </BIAS>
+ <RMSE>  0.793070793     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         503 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.401040673     </BIAS>
+ <RMSE>  0.817609966     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.133745581     </MEAN_OBS>
+ <STDV_OBS>  0.583898425     </STDV_OBS>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         566 </NUM>
+ <MEAN>  0.166032493     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.607691646     </BIAS>
+ <RMSE>  0.286349177     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         566 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.618173659     </BIAS>
+ <RMSE>  0.331388503     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         566 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.595161140     </BIAS>
+ <RMSE>  0.353535861     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.241827726     </MEAN_OBS>
+ <STDV_OBS>  0.719511867     </STDV_OBS>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>  0.215119317     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.613742948     </BIAS>
+ <RMSE>  0.610209703     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.726313353     </BIAS>
+ <RMSE>  0.557643890     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.647090197     </BIAS>
+ <RMSE>  0.592594385     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.323045224     </MEAN_OBS>
+ <STDV_OBS>  0.687851489     </STDV_OBS>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         243 </NUM>
+ <MEAN>  0.291779459     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.543588161     </BIAS>
+ <RMSE>  0.595093250     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         243 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.543831289     </BIAS>
+ <RMSE>  0.690468848     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         243 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.490582138     </BIAS>
+ <RMSE>  0.734134257     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.266959578     </MEAN_OBS>
+ <STDV_OBS>  0.767851472     </STDV_OBS>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>  0.236173660     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.801972508     </BIAS>
+ <RMSE>  0.598050475     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.832706153     </BIAS>
+ <RMSE>  0.599082291     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.764582217     </BIAS>
+ <RMSE>  0.631561100     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.513592124     </MEAN_OBS>
+ <STDV_OBS>   1.08616507     </STDV_OBS>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         206 </NUM>
+ <MEAN>  0.623388946     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.931671023     </BIAS>
+ <RMSE>  0.454309702     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         206 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.10050964     </BIAS>
+ <RMSE>  0.400753587     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         206 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>   1.09906340     </BIAS>
+ <RMSE>  0.384769619     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.315838456     </MEAN_OBS>
+ <STDV_OBS>  0.733536243     </STDV_OBS>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         322 </NUM>
+ <MEAN>  0.237411335     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.725487173     </BIAS>
+ <RMSE>  0.629701436     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         322 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.690855861     </BIAS>
+ <RMSE>  0.635623097     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         322 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.728615522     </BIAS>
+ <RMSE>  0.593913674     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.130579963     </MEAN_OBS>
+ <STDV_OBS>  0.744937241     </STDV_OBS>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>  0.229327187     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.745379210     </BIAS>
+ <RMSE>  0.448658675     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.777916074     </BIAS>
+ <RMSE>  0.439654857     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.685849309     </BIAS>
+ <RMSE>  0.481609195     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.135676607     </MEAN_OBS>
+ <STDV_OBS>  0.754030108     </STDV_OBS>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>  0.220004067     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.457889795     </BIAS>
+ <RMSE>  0.820060730     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.500421047     </BIAS>
+ <RMSE>  0.755467832     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.497866929     </BIAS>
+ <RMSE>  0.759858012     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.378756642     </MEAN_OBS>
+ <STDV_OBS>  0.883276165     </STDV_OBS>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         193 </NUM>
+ <MEAN>  0.396803916     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.616296172     </BIAS>
+ <RMSE>  0.563079596     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         193 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.587631822     </BIAS>
+ <RMSE>  0.644641042     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         193 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.716614664     </BIAS>
+ <RMSE>  0.608884633     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.539006948     </MEAN_OBS>
+ <STDV_OBS>   1.62088227     </STDV_OBS>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         141 </NUM>
+ <MEAN>  0.600540817     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.939221203     </BIAS>
+ <RMSE>  0.795767605     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         141 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.971055031     </BIAS>
+ <RMSE>  0.748567998     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         141 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>   1.02674735     </BIAS>
+ <RMSE>  0.774603188     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.562162220     </MEAN_OBS>
+ <STDV_OBS>   1.46945512     </STDV_OBS>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         148 </NUM>
+ <MEAN>  0.662425160     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>   1.04341304     </BIAS>
+ <RMSE>  0.683314741     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         148 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.17884147     </BIAS>
+ <RMSE>  0.626965523     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         148 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>   1.15631676     </BIAS>
+ <RMSE>  0.618609130     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.255941987     </MEAN_OBS>
+ <STDV_OBS>  0.775354981     </STDV_OBS>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         345 </NUM>
+ <MEAN>  0.266244173     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.778076410     </BIAS>
+ <RMSE>  0.514559090     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         345 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.856783390     </BIAS>
+ <RMSE>  0.508907080     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         345 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.632242262     </BIAS>
+ <RMSE>  0.635685086     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.267826080     </MEAN_OBS>
+ <STDV_OBS>   1.04263163     </STDV_OBS>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         230 </NUM>
+ <MEAN>  0.364799440     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.905957222     </BIAS>
+ <RMSE>  0.627291024     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         230 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.854679763     </BIAS>
+ <RMSE>  0.642519772     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         230 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.797157407     </BIAS>
+ <RMSE>  0.642722428     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.333333403     </MEAN_OBS>
+ <STDV_OBS>  0.600701690     </STDV_OBS>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         291 </NUM>
+ <MEAN>  0.278985858     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.520365894     </BIAS>
+ <RMSE>  0.733043790     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         291 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.530116677     </BIAS>
+ <RMSE>  0.727348626     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         291 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.554190695     </BIAS>
+ <RMSE>  0.694545150     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.255982935     </MEAN_OBS>
+ <STDV_OBS>  0.626516044     </STDV_OBS>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         234 </NUM>
+ <MEAN>  0.296408445     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.476534873     </BIAS>
+ <RMSE>  0.696283102     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         234 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.562206149     </BIAS>
+ <RMSE>  0.625901937     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         234 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.609986782     </BIAS>
+ <RMSE>  0.527163029     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.175395444     </MEAN_OBS>
+ <STDV_OBS>  0.533806920     </STDV_OBS>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>  0.168781891     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.550403297     </BIAS>
+ <RMSE>  0.522155881     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.581256330     </BIAS>
+ <RMSE>  0.497599304     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.539381742     </BIAS>
+ <RMSE>  0.566654742     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.119332165     </MEAN_OBS>
+ <STDV_OBS>  0.554617107     </STDV_OBS>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>  0.152759835     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.329647571     </BIAS>
+ <RMSE>  0.712716281     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.534325659     </BIAS>
+ <RMSE>  0.636416972     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.413062155     </BIAS>
+ <RMSE>  0.683096051     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.331889838     </MEAN_OBS>
+ <STDV_OBS>   1.02740228     </STDV_OBS>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         254 </NUM>
+ <MEAN>  0.352469444     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.844413161     </BIAS>
+ <RMSE>  0.540588140     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         254 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.11941946     </BIAS>
+ <RMSE>  0.431841016     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         254 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.990187645     </BIAS>
+ <RMSE>  0.477244437     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.233568877     </MEAN_OBS>
+ <STDV_OBS>  0.774000347     </STDV_OBS>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         566 </NUM>
+ <MEAN>  0.192780554     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.552686512     </BIAS>
+ <RMSE>  0.848714888     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         566 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.718767107     </BIAS>
+ <RMSE>  0.698854983     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         566 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.636187255     </BIAS>
+ <RMSE>  0.773949564     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.166048273     </MEAN_OBS>
+ <STDV_OBS>  0.641948223     </STDV_OBS>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         539 </NUM>
+ <MEAN>  0.187752217     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.517434716     </BIAS>
+ <RMSE>  0.611817718     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         539 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.549634516     </BIAS>
+ <RMSE>  0.521423101     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         539 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.565154493     </BIAS>
+ <RMSE>  0.549669921     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.226223081     </MEAN_OBS>
+ <STDV_OBS>  0.673517525     </STDV_OBS>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         511 </NUM>
+ <MEAN>  0.200288191     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.595005572     </BIAS>
+ <RMSE>  0.593568802     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         511 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.839097619     </BIAS>
+ <RMSE>  0.412154287     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         511 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.758497238     </BIAS>
+ <RMSE>  0.362033904     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.266071290     </MEAN_OBS>
+ <STDV_OBS>  0.707790434     </STDV_OBS>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         448 </NUM>
+ <MEAN>  0.243524581     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.664580584     </BIAS>
+ <RMSE>  0.537521362     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         448 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.705364704     </BIAS>
+ <RMSE>  0.498565108     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         448 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.620886326     </BIAS>
+ <RMSE>  0.574972332     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.167838335     </MEAN_OBS>
+ <STDV_OBS>  0.708087087     </STDV_OBS>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>  0.219913304     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.546459913     </BIAS>
+ <RMSE>  0.549661458     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.834279716     </BIAS>
+ <RMSE>  0.435476005     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.616398633     </BIAS>
+ <RMSE>  0.523315907     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.184905633     </MEAN_OBS>
+ <STDV_OBS>  0.687641025     </STDV_OBS>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         477 </NUM>
+ <MEAN>  0.194271863     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.591633916     </BIAS>
+ <RMSE>  0.572803974     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         477 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.601013064     </BIAS>
+ <RMSE>  0.571076095     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         477 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.580842197     </BIAS>
+ <RMSE>  0.618790150     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.470063686     </MEAN_OBS>
+ <STDV_OBS>  0.899425745     </STDV_OBS>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         157 </NUM>
+ <MEAN>  0.464069486     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.957857251     </BIAS>
+ <RMSE>  0.564562738     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         157 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.682612956     </BIAS>
+ <RMSE>  0.753607213     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         157 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.684959471     </BIAS>
+ <RMSE>  0.753189027     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.165209085     </MEAN_OBS>
+ <STDV_OBS>  0.756551921     </STDV_OBS>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         526 </NUM>
+ <MEAN>  0.185575739     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.589142144     </BIAS>
+ <RMSE>  0.724187911     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         526 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.465312928     </BIAS>
+ <RMSE>  0.797483027     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         526 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.489754051     </BIAS>
+ <RMSE>  0.781662643     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.147247717     </MEAN_OBS>
+ <STDV_OBS>  0.720583618     </STDV_OBS>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         436 </NUM>
+ <MEAN>  0.227126792     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.910784602     </BIAS>
+ <RMSE>  0.453942835     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         436 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.554288983     </BIAS>
+ <RMSE>  0.612902999     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         436 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.612502098     </BIAS>
+ <RMSE>  0.552596450     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.629585862     </MEAN_OBS>
+ <STDV_OBS>   1.52659798     </STDV_OBS>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         169 </NUM>
+ <MEAN>  0.637937665     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>   1.46932292     </BIAS>
+ <RMSE>  0.514897704     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         169 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.33547080     </BIAS>
+ <RMSE>  0.562667310     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         169 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>   1.31576514     </BIAS>
+ <RMSE>  0.616088212     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.159845546     </MEAN_OBS>
+ <STDV_OBS>  0.797475219     </STDV_OBS>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         518 </NUM>
+ <MEAN>  0.214858502     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.560177982     </BIAS>
+ <RMSE>  0.653256595     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         518 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.631750464     </BIAS>
+ <RMSE>  0.611528099     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         518 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.646198750     </BIAS>
+ <RMSE>  0.595123708     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.29349777E-02 </MEAN_OBS>
+ <STDV_OBS>  0.516375661     </STDV_OBS>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>   9.58675146E-02 </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.205169320     </BIAS>
+ <RMSE>  0.836994767     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.388470381     </BIAS>
+ <RMSE>  0.509960711     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.379584014     </BIAS>
+ <RMSE>  0.678221822     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.229614571     </MEAN_OBS>
+ <STDV_OBS>  0.996651709     </STDV_OBS>
+ <EXP>
+ <ID>       10235 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         493 </NUM>
+ <MEAN>  0.262196273     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.572261512     </BIAS>
+ <RMSE>  0.846536279     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10235 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         493 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.584654331     </BIAS>
+ <RMSE>  0.812870264     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10235 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         493 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.592854798     </BIAS>
+ <RMSE>  0.805082560     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.174058542     </MEAN_OBS>
+ <STDV_OBS>  0.761844158     </STDV_OBS>
+ <EXP>
+ <ID>       10312 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         478 </NUM>
+ <MEAN>  0.241259620     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.618606269     </BIAS>
+ <RMSE>  0.610420465     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10312 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         478 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.546227038     </BIAS>
+ <RMSE>  0.657766402     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10312 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         478 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.598070562     </BIAS>
+ <RMSE>  0.630084574     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.186010346     </MEAN_OBS>
+ <STDV_OBS>  0.566448510     </STDV_OBS>
+ <EXP>
+ <ID>       26038 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         386 </NUM>
+ <MEAN>  0.217864469     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.660851300     </BIAS>
+ <RMSE>  0.245381296     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26038 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         386 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.770216882     </BIAS>
+ <RMSE>  0.179415047     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26038 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         386 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.745475352     </BIAS>
+ <RMSE>  0.203827322     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.108830556     </MEAN_OBS>
+ <STDV_OBS>  0.612018406     </STDV_OBS>
+ <EXP>
+ <ID>       26115 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         419 </NUM>
+ <MEAN>  0.184972838     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.715088665     </BIAS>
+ <RMSE>  0.459126055     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26115 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         419 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.656218708     </BIAS>
+ <RMSE>  0.459396869     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26115 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         419 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.582708001     </BIAS>
+ <RMSE>  0.533322453     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.231564984     </MEAN_OBS>
+ <STDV_OBS>   1.16854060     </STDV_OBS>
+ <EXP>
+ <ID>       26242 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         377 </NUM>
+ <MEAN>  0.426911891     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.514652908     </BIAS>
+ <RMSE>  0.765063167     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26242 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         377 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.768894792     </BIAS>
+ <RMSE>  0.624116004     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26242 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         377 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.968501389     </BIAS>
+ <RMSE>  0.558492959     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.239285722     </MEAN_OBS>
+ <STDV_OBS>  0.853898048     </STDV_OBS>
+ <EXP>
+ <ID>       26247 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         560 </NUM>
+ <MEAN>  0.326751679     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.821028888     </BIAS>
+ <RMSE>  0.571945310     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26247 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         560 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.936974585     </BIAS>
+ <RMSE>  0.491571695     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26247 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         560 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.788287222     </BIAS>
+ <RMSE>  0.564533174     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.131046921     </MEAN_OBS>
+ <STDV_OBS>  0.590247393     </STDV_OBS>
+ <EXP>
+ <ID>       26128 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         554 </NUM>
+ <MEAN>  0.185822427     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.607752323     </BIAS>
+ <RMSE>  0.433144033     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26128 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         554 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.539739072     </BIAS>
+ <RMSE>  0.498486191     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26128 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         554 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.528648555     </BIAS>
+ <RMSE>  0.535537541     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.333898306     </MEAN_OBS>
+ <STDV_OBS>   1.21806192     </STDV_OBS>
+ <EXP>
+ <ID>       26249 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         413 </NUM>
+ <MEAN>  0.404306501     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.835343361     </BIAS>
+ <RMSE>  0.729504049     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26249 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         413 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.758869231     </BIAS>
+ <RMSE>  0.765492857     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26249 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         413 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.828683317     </BIAS>
+ <RMSE>  0.733844399     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.213461518     </MEAN_OBS>
+ <STDV_OBS>   1.37695301     </STDV_OBS>
+ <EXP>
+ <ID>       26144 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         416 </NUM>
+ <MEAN>  0.429176956     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.714393914     </BIAS>
+ <RMSE>  0.870228171     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26144 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         416 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.836619616     </BIAS>
+ <RMSE>  0.841886997     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26144 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         416 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.825860918     </BIAS>
+ <RMSE>  0.833182514     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.100954667     </MEAN_OBS>
+ <STDV_OBS>  0.368116915     </STDV_OBS>
+ <EXP>
+ <ID>       26214 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         419 </NUM>
+ <MEAN>  0.131124303     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.365042537     </BIAS>
+ <RMSE>  0.466285646     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26214 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         419 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.363997430     </BIAS>
+ <RMSE>  0.515828431     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26214 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         419 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.356045336     </BIAS>
+ <RMSE>  0.542993724     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.103818618     </MEAN_OBS>
+ <STDV_OBS>  0.479795903     </STDV_OBS>
+ <EXP>
+ <ID>       26218 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         419 </NUM>
+ <MEAN>  0.157971859     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.290291071     </BIAS>
+ <RMSE>  0.760372341     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26218 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         419 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.326329380     </BIAS>
+ <RMSE>  0.726359308     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26218 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         419 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.354741216     </BIAS>
+ <RMSE>  0.682861388     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.70735869E-02 </MEAN_OBS>
+ <STDV_OBS>  0.653694868     </STDV_OBS>
+ <EXP>
+ <ID>       26226 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         557 </NUM>
+ <MEAN>  0.188348532     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.809989810     </BIAS>
+ <RMSE>  0.406100601     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26226 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         557 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.626063526     </BIAS>
+ <RMSE>  0.517047107     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26226 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         557 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.547652781     </BIAS>
+ <RMSE>  0.550534606     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.110412911     </MEAN_OBS>
+ <STDV_OBS>  0.626351953     </STDV_OBS>
+ <EXP>
+ <ID>       26227 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         557 </NUM>
+ <MEAN>  0.178298205     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.407885402     </BIAS>
+ <RMSE>  0.723374248     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26227 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         557 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.444131702     </BIAS>
+ <RMSE>  0.694587409     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26227 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         557 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.439582378     </BIAS>
+ <RMSE>  0.715395033     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.202007353     </MEAN_OBS>
+ <STDV_OBS>  0.672272742     </STDV_OBS>
+ <EXP>
+ <ID>       26045 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         548 </NUM>
+ <MEAN>  0.267523706     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.767445385     </BIAS>
+ <RMSE>  0.423484832     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26045 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         548 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.792180240     </BIAS>
+ <RMSE>  0.437735319     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26045 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         548 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.652952969     </BIAS>
+ <RMSE>  0.530522823     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.359489113     </MEAN_OBS>
+ <STDV_OBS>   1.37370503     </STDV_OBS>
+ <EXP>
+ <ID>       26058 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         548 </NUM>
+ <MEAN>  0.427201837     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.922424018     </BIAS>
+ <RMSE>  0.801052392     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26058 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         548 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.951018214     </BIAS>
+ <RMSE>  0.792565942     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26058 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         548 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.780830026     </BIAS>
+ <RMSE>  0.855981469     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.170535713     </MEAN_OBS>
+ <STDV_OBS>  0.730470240     </STDV_OBS>
+ <EXP>
+ <ID>       26029 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         560 </NUM>
+ <MEAN>  0.195028216     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.371669352     </BIAS>
+ <RMSE>  0.855210245     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26029 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         560 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.544862270     </BIAS>
+ <RMSE>  0.741273224     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26029 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         560 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.429929793     </BIAS>
+ <RMSE>  0.813697994     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.263942271     </MEAN_OBS>
+ <STDV_OBS>  0.707521677     </STDV_OBS>
+ <EXP>
+ <ID>       26233 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         416 </NUM>
+ <MEAN>  0.292959958     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.526725411     </BIAS>
+ <RMSE>  0.724469244     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26233 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         416 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.453601211     </BIAS>
+ <RMSE>  0.793535948     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26233 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         416 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.525963962     </BIAS>
+ <RMSE>  0.736160576     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.294988066     </MEAN_OBS>
+ <STDV_OBS>   1.11779821     </STDV_OBS>
+ <EXP>
+ <ID>       26145 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         419 </NUM>
+ <MEAN>  0.400090039     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.677484632     </BIAS>
+ <RMSE>  0.800831914     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26145 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         419 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.68928397     </BIAS>
+ <RMSE>  0.399992228     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26145 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         419 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.939684629     </BIAS>
+ <RMSE>  0.628115833     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.219107121     </MEAN_OBS>
+ <STDV_OBS>   1.64649534     </STDV_OBS>
+ <EXP>
+ <ID>       26141 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         560 </NUM>
+ <MEAN>  0.371848613     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.974794507     </BIAS>
+ <RMSE>  0.717641354     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26141 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         560 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.848703206     </BIAS>
+ <RMSE>  0.897630572     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26141 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         560 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.880537689     </BIAS>
+ <RMSE>  0.914470017     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.468038768     </MEAN_OBS>
+ <STDV_OBS>   1.26614285     </STDV_OBS>
+ <EXP>
+ <ID>       26046 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         413 </NUM>
+ <MEAN>  0.467990935     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>   1.02471173     </BIAS>
+ <RMSE>  0.697014987     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26046 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         413 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.09494150     </BIAS>
+ <RMSE>  0.638020277     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26046 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         413 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>   1.12499368     </BIAS>
+ <RMSE>  0.634785950     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.220577538     </MEAN_OBS>
+ <STDV_OBS>  0.984118581     </STDV_OBS>
+ <EXP>
+ <ID>       26135 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         554 </NUM>
+ <MEAN>  0.312151611     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.664693832     </BIAS>
+ <RMSE>  0.671419144     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26135 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         554 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.946624458     </BIAS>
+ <RMSE>  0.547858953     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26135 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         554 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.790384173     </BIAS>
+ <RMSE>  0.614683747     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.218377098     </MEAN_OBS>
+ <STDV_OBS>  0.700092912     </STDV_OBS>
+ <EXP>
+ <ID>       26124 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         419 </NUM>
+ <MEAN>  0.214418247     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.571506619     </BIAS>
+ <RMSE>  0.653242171     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26124 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         419 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.548792660     </BIAS>
+ <RMSE>  0.665629387     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26124 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         419 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.573738098     </BIAS>
+ <RMSE>  0.656141520     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.169951871     </MEAN_OBS>
+ <STDV_OBS>  0.674202085     </STDV_OBS>
+ <EXP>
+ <ID>       26134 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         416 </NUM>
+ <MEAN>  0.242271811     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.397020668     </BIAS>
+ <RMSE>  0.744451404     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26134 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         416 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.524233162     </BIAS>
+ <RMSE>  0.676496089     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26134 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         416 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.489873379     </BIAS>
+ <RMSE>  0.687653661     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.136042431     </MEAN_OBS>
+ <STDV_OBS>  0.520595610     </STDV_OBS>
+ <EXP>
+ <ID>        6051 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         566 </NUM>
+ <MEAN>  0.182951599     </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.364651144     </BIAS>
+ <RMSE>  0.663585484     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6051 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         566 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.385207564     </BIAS>
+ <RMSE>  0.671867013     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6051 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         566 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.394393742     </BIAS>
+ <RMSE>  0.674787700     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.160378754     </STDV_OBS>
+ <EXP>
+ <ID>        6080 </ID>
+ <NAME>meps_mbr000</NAME>
+ <NUM>         443 </NUM>
+ <MEAN>   4.07796353E-02 </MEAN>
+ <STDV>   304.221191     </STDV>
+ <BIAS>  0.209792063     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   282.550781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6080 </ID>
+ <NAME>mnwc_preop</NAME>
+ <NUM>         443 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.148192182     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6080 </ID>
+ <NAME>mnwc_pysurfex</NAME>
+ <NUM>         443 </NUM>
+ <MEAN>   7.17464814E-43 </MEAN>
+ <STDV>   2604.46729     </STDV>
+ <BIAS>  0.160197645     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -7.63654119E+16 </CORR>
+ </EXP>
+ </STATION>
+</STAT>
